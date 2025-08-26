@@ -1,0 +1,168 @@
+{
+  "2025-08-23": [
+    {
+      "title": "Upper Body Workout",
+      "name": "Session A",
+      "finished_at": "2025-08-23T18:45:00Z",
+      "program_id": "prog123",
+      "type": "strength",
+      "day": 1,
+      "week": 3,
+      "records": [
+        {
+          "id": "ex1",
+          "name": "Bench Press (Barbell)",
+          "type": "compound",
+          "source": "boostcamp",
+          "custom": false,
+          "video": null,
+          "thumbnail": null,
+          "target_type": "reps",
+          "finished_at": "2025-08-23T18:30:00Z",
+          "muscles_list": [
+            {
+              "muscle": "Chest",
+              "percent": 70
+            },
+            {
+              "muscle": "Triceps",
+              "percent": 30
+            }
+          ],
+          "equipments": [
+            "Barbell",
+            "Bench"
+          ],
+          "rest_timer": 120,
+          "sets": [
+            {
+              "id": "set1",
+              "value": 80,
+              "amount": 8,
+              "target_type": "reps",
+              "weight_unit": "kg",
+              "custom": false,
+              "source": "manual",
+              "skipped": false,
+              "isCopyLast": false,
+              "valueEmpty": false,
+              "amountEmpty": false,
+              "archived_rpe": 7,
+              "previous_rpe": 6,
+              "archived_reps": 8,
+              "previous_reps": 8,
+              "archived_weight": 75,
+              "previous_weight": 75,
+              "previous_time": null
+            },
+            {
+              "id": "set2",
+              "value": 85,
+              "amount": 6,
+              "target_type": "reps",
+              "weight_unit": "kg",
+              "custom": false,
+              "source": "manual",
+              "skipped": false,
+              "isCopyLast": false,
+              "valueEmpty": false,
+              "amountEmpty": false,
+              "archived_rpe": 8,
+              "previous_rpe": 7,
+              "archived_reps": 6,
+              "previous_reps": 6,
+              "archived_weight": 80,
+              "previous_weight": 80,
+              "previous_time": null
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "name": "Overhead Press (Barbell)",
+          "type": "compound",
+          "source": "boostcamp",
+          "custom": false,
+          "target_type": "reps",
+          "finished_at": "2025-08-23T18:40:00Z",
+          "muscles": [
+            "Shoulders",
+            "Triceps"
+          ],
+          "equipments": [
+            "Barbell"
+          ],
+          "sets": [
+            {
+              "id": "set1",
+              "value": 40,
+              "amount": 10,
+              "target_type": "reps",
+              "weight_unit": "kg",
+              "custom": false,
+              "source": "manual",
+              "skipped": false,
+              "archived_rpe": 6,
+              "previous_rpe": 6,
+              "archived_reps": 10,
+              "previous_reps": 9,
+              "archived_weight": 35,
+              "previous_weight": 35,
+              "previous_time": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2025-08-24": [
+    {
+      "title": "Lower Body Workout",
+      "name": "Session B",
+      "finished_at": "2025-08-24T19:00:00Z",
+      "program_id": "prog123",
+      "type": "strength",
+      "day": 2,
+      "week": 3,
+      "records": [
+        {
+          "id": "ex3",
+          "name": "Squat (Barbell)",
+          "type": "compound",
+          "source": "boostcamp",
+          "custom": false,
+          "target_type": "reps",
+          "muscles_list": [
+            {
+              "muscle": "Quads",
+              "percent": 60
+            },
+            {
+              "muscle": "Glutes",
+              "percent": 40
+            }
+          ],
+          "equipments": [
+            "Barbell",
+            "Rack"
+          ],
+          "sets": [
+            {
+              "id": "set1",
+              "value": 100,
+              "amount": 5,
+              "target_type": "reps",
+              "weight_unit": "kg",
+              "archived_rpe": 8,
+              "previous_rpe": 7,
+              "archived_reps": 5,
+              "previous_reps": 5,
+              "archived_weight": 95,
+              "previous_weight": 95
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
