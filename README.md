@@ -4,7 +4,7 @@ Convert your Boostcamp workout history JSON into clean CSV or Excel (XLSX) table
 # 🏋️‍♂️ Boostcamp Workout Exporter
 
 Convert your Boostcamp workout history JSON into clean **CSV** or **Excel (XLSX)** tables for analysis, logging, or importing into other tools.
-Disclaimer, this is project not thoroughly tested, and quickly made with the help of AI. 
+
 ---
 
 ## 📖 Description
@@ -43,3 +43,9 @@ Make sure you have python and pandas installed.
 
 ```bash
 python flatten_workouts.py
+```
+
+---
+
+
+Disclaimer, this is project not thoroughly tested, and quickly made with the help of AI. 
